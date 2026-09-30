@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="kb_bg">#1C1E26</color>
+    <color name="kb_key">#2E313D</color>
+    <color name="kb_key_pressed">#4A5070</color>
+    <color name="kb_key_active">#4B56A8</color>
+    <color name="kb_text">#F1F3F9</color>
+    <color name="kb_key_locked">#6472E0</color>
+</resources>
